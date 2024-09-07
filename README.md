@@ -1,6 +1,8 @@
 # Animated Motes
 
 This code is derived from the TMagic mod by TorannD.
+This is simply a port of an existing series of classes found inside RimWorld Of Magic allowing the use of individual images to create an animated mote, all credit belongs to the original developers.
+
 Original source: https://github.com/TorannD/TMagic
 
 TMagic is licensed under the BSD 3-Clause License (full license text at the end of this document).
