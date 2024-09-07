@@ -75,6 +75,8 @@
   <ItemGroup>
     <Compile Include="AnimationDef.cs" />
     <Compile Include="Graphic_Animated.cs" />
+    <Compile Include="IAnimated.cs" />
+    <Compile Include="Mote_Animation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
